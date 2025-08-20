@@ -15,8 +15,9 @@
 
 ## █ CORE
 
-**Lightweight YOLO11n finetuned for unmanned aerial vehicles.**  
+**Lightweight YOLO11n and YOLO11L finetuned for unmanned aerial vehicles.**  
 **Built for edge deployment.**
+**Additional synthetic data generation tool for more robust environment handling**
 
 ## █ SPECS
 
