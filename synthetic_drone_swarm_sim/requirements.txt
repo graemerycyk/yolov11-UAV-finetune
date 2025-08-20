@@ -1,0 +1,6 @@
+ultralytics 
+supervision 
+trackers==2.0.2rc0
+opencv-python>=4.5.0
+numpy>=1.20.0
+tqdm>=4.60.0

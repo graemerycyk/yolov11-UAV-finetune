@@ -1,0 +1,15 @@
+Drone Image Instructions
+========================
+
+Place your drone image file as "drone.png" in this directory.
+
+Requirements:
+- File name: drone.png
+- Format: PNG (with transparency/alpha channel)
+- Content: Side or angled view of a drone
+- Resolution: Recommended 200x200 to 500x500 pixels
+- Background: Transparent (alpha channel)
+
+The drone image should have a transparent background so it can be properly
+alpha-blended onto the background video. A clear, detailed drone silhouette
+works best for the simulation.
