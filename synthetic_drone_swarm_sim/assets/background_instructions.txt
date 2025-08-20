@@ -1,0 +1,14 @@
+Background Video Instructions
+============================
+
+Place your background video file as "background.mp4" in this directory.
+
+Requirements:
+- File name: background.mp4
+- Format: MP4
+- Content: Empty scene with sky
+- Duration: Recommended 5-30 seconds
+- Resolution: Any (720p or 1080p recommended)
+
+The background video should show an open sky or landscape without any moving objects,
+as this will serve as the base for overlaying the drone swarm simulation.
