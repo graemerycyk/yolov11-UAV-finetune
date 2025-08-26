@@ -3,3 +3,5 @@ roboflow==1.2.6
 opencv-python-headless==4.10.0.84
 numpy==1.24.4
 pandas==2.2.1
+supervision
+trackers==2.0.2rc0
